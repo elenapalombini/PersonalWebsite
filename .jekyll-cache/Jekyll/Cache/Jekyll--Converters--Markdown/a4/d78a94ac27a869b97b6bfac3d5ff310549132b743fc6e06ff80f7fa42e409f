@@ -1,0 +1,15 @@
+I"+<p>Developed for the course “Physical Interaction” at KTH Royal Institute of Technology.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qu5Mt_bnD24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<p><br />
+We set out to build a concept of a touchless elevator, that can be controlled through hand gestures. This design is especially relevant in COVID-19 times, as it allows to avoid touching buttons in public places. Also, it was a great opportunity for us to explore hand gesture interaction.</p>
+
+<p>We have created a prototype of a gesture-based control system for a small elevator model. The elevator itself is made out of laser cut MDF, with a servo motor attached to the back, that controls it through a nylon thread and a pulley system.</p>
+
+<p>The servo motor is connected to an Arduino, which acts on data from a Leap Motion Controller. The gesture interpretation is done in a Java application running on a computer before passing it to the Arduino.</p>
+
+<p>We indicate what floor the user selects by an arrow indicator that moves across a semicircle, and yellow leds, similar to old fashioned floor indicators.</p>
+:ET
