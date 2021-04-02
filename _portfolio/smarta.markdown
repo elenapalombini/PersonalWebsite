@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: project
 title: Smarta - A Smart Ball for Turn-Taking
 description: 2020
+date: 2020-06-01 10:30:00 +0200
 img: /img/smarta_1.jpg
 ---
 

@@ -1,6 +1,9 @@
 ---
-layout: post
+layout: project
 title: SafeStreets - Software development planning
 description: a project with a background image
-img: /img/12.jpg
+date: 2019-12-01 10:30:00 +0200
+img: /img/safestreets.png
 ---
+
+Developed for the course "Software Engineering 2" at Polytechnic University of Milan.

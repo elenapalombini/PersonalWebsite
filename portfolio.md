@@ -3,8 +3,9 @@ layout: page
 title: portfolio
 permalink: /portfolio/
 ---
+{% assign projects = site.portfolio | sort: 'date' | reverse %}
 
-{% for project in site.portfolio %}
+{% for project in projects %}
 
 {% if project.redirect %}
 <div class="project">
@@ -20,7 +21,7 @@ permalink: /portfolio/
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ project.date | date: "%Y" }}</p>
         </span>
         </a>
     </div>
@@ -40,7 +41,7 @@ permalink: /portfolio/
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ project.date | date: "%Y" }}</p>
         </span>
         </a>
     </div>

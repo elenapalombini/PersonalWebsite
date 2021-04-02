@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: project
 title: Gesture Elevator
 description: 2020
+date: 2020-11-01 10:30:00 +0200
 img: /img/gesture_elevator.jpg
 ---
 

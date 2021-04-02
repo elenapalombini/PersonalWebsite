@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: project
 title: Catch 2022 - videogame
-description: a project with a background image
-img: /img/12.jpg
+description: 2021
+date: 2021-01-01 10:30:00 +0200
+img: /img/catch_2022.jpg
+redirect: https://catch2022.github.io/
 ---

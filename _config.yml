@@ -8,6 +8,9 @@ url: localhost:4000 # the base hostname & protocol for your site
 twitter_username: #PalombiniElena
 github_username:  elenapalombini
 
+# Set timezone
+# timezone:	Europe/Rome
+
 # Build settings
 markdown: kramdown
 
