@@ -27,6 +27,7 @@ $caption_color: #aaa;
 $red:  #FF3636;
 $orange: #F29105;
 $blue: #2698BA;
+$deep_blue: #7b10e6;
 $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
@@ -261,4 +262,35 @@ pre {
     left: 0; 
     width: 100%; 
     height: 100%; 
+}
+
+.slides-container{
+    position: relative;
+    width: 100%;
+    padding-top: 60%;
+    overflow: hidden;
+}
+
+.slides-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.references {
+    margin-top: 12px;
+}
+
+.references span{
+    color: $theme-color;
+}
+
+.image-padding {
+    padding-left: 26px !important;
+}
+
+.justify {
+    text-align: justify;
 }

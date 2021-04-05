@@ -21,3 +21,17 @@ a new turn. 
 
 
 SMARTA also provides a web interface for the educator to set turn duration times and warn the students by making the ball emit red light when they speak over each other.  The web interface also allows to consult statistics of past discussions.  The core of SMARTA is a Raspberry Pi Zero, to which are connected  a  strip  of  LED  lights  and an  accelerometer,  as  well  as  a  vibration motor; SMARTA is programmed in Python.
+
+<!-- <div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/smarta_1.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/smarta_2.jpg" alt="" title="example image"/>
+</div> -->
+This is our presentation, useful for a general overview of SMARTA:
+
+<div class="slides-container"><iframe src="https://drive.google.com/file/d/1HnzePCXdXAbEIBGTdfkfA5OPUt4y_uzH/preview" width="640" height="480"></iframe></div>
+<br />
+Here is the Design and Technology document, for more detailed information about SMARTA and the research that went into its design: 
+
+<div class="cv-container">
+<iframe src="https://drive.google.com/file/d/1iLPlCtsSwbEfFP7GX2hwgqSP-SK2pPB3/preview" width="640" height="480"></iframe>
+</div>
