@@ -1,0 +1,22 @@
+I"#<p>Available at https://volontariato-feltre.herokuapp.com/
+More extensive documentation available at https://volontariato-feltre.herokuapp.com/backend/main.html
+Design Document for this website available here.
+Developed for the course “Hypermedia Applications” at Polytechnic University of Milan.</p>
+
+<iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2FacEGr12Wd1VvcTf9XXSL72%2FHypermedia-Project%3Fnode-id%3D0%253A1" allowfullscreen=""></iframe>
+
+<p>Figma Project, where we designed the user interface of the website.</p>
+
+<p>In a 2-people team, we developed an example website for a neighborhood volunteering association.</p>
+
+<p>For the backend of our application, we used:</p>
+
+<ul>
+  <li>OpenApi specification for REST API</li>
+  <li>Node JS server framework</li>
+  <li>Javascript language</li>
+  <li>PostgreSQL Database (managed locally with PGAdmin)</li>
+  <li>Knex.js query builder</li>
+  <li>Heroku cloud platform to host the application and the database</li>
+</ul>
+:ET
