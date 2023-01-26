@@ -4,6 +4,7 @@ title: Sonik - in collaboration with Sony Music
 description: a project with a background image
 date: 2020-06-01 10:30:00 +0200
 img: /img/sonik.jpg
+published: false
 ---
 
 Created for the course "Designing Digital Business Innovation Labs" at Polytechnic University of Milan - the company supervisors for this project were from the company Sony Music Entertainment.
