@@ -10,5 +10,5 @@ permalink: /cv/
 </object>
 -->
 <div class="cv-container">
-<iframe src="https://drive.google.com/file/d/1ju6LnOsZYp0nO0fdXCcCrcCRrv6X6Q1Q/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Y1GaboVpD4m9XRiSVhoLfRWHaO2R10Mq/preview" width="640" height="480"></iframe>
 </div>
