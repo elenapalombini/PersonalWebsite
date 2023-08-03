@@ -6,8 +6,9 @@ description: 2021
 img: /img/vr.jpg
 ---
 
-### Overview <br/>
+### Overview
 
+<br/>
 This research was originally conducted for my Master’s Thesis at Polytechnic University of Milan and KTH Royal Institute of Technology (Stockholm, Sweden), with the support of the company <a href="https://xplorxr.dk/" target="_blank">Xplor XR</a>.
 
 I presented this work at <a href="https://www.interactivemediainstitute.com/cypsy26/" target="_blank">CYPSY26 (26th Annual CyberPsychology, CyberTherapy & Social Networking Conference)</a>  in Paris. I also condensed the findings into a paper that was then chosen for publication in the <a href="https://www.arctt.info/" target="_blank">Annual Review of Cybertherapy and Telemedicine</a>.
@@ -35,8 +36,9 @@ The prompt I started with was "let's do a master thesis about psychology and VR"
 #### Results
 -->
 
-### Want to read more about this work? <br/>
+### Want to read more about this work? 
 
+<br/>
 For an effective and to the point read, <a href="https://drive.google.com/file/d/1Ympn10kW-vpLcRCPyx09jJOOcA2knafw/view?usp=drive_link" target="_blank">this</a> is the 6 page scientific paper.
 Or, feel free to check out my (100-page) Master Thesis as discussed at Polytechnic University of Milan <a href="https://www.politesi.polimi.it/retrieve/b73664d5-99b2-4724-baad-977e70549452/Palombini_Master_Thesis.pdf" target="_blank">here</a>.
 
